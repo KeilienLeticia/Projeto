@@ -1,0 +1,14 @@
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\bin\Debug\net7.0\LogicadeProgramacao.exe
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\bin\Debug\net7.0\LogicadeProgramacao.deps.json
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\bin\Debug\net7.0\LogicadeProgramacao.runtimeconfig.json
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\bin\Debug\net7.0\LogicadeProgramacao.dll
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\bin\Debug\net7.0\LogicadeProgramacao.pdb
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\obj\Debug\net7.0\LogicadeProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\obj\Debug\net7.0\LogicadeProgramacao.AssemblyInfoInputs.cache
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\obj\Debug\net7.0\LogicadeProgramacao.AssemblyInfo.cs
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\obj\Debug\net7.0\LogicadeProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\obj\Debug\net7.0\LogicadeProgramacao.dll
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\obj\Debug\net7.0\refint\LogicadeProgramacao.dll
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\obj\Debug\net7.0\LogicadeProgramacao.pdb
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\obj\Debug\net7.0\LogicadeProgramacao.genruntimeconfig.cache
+C:\Users\Leticia\Desktop\CSharp\LogicadeProgramacao\LogicadeProgramacao\obj\Debug\net7.0\ref\LogicadeProgramacao.dll
